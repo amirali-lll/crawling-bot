@@ -2,6 +2,12 @@
 
 This document provides an overview of the main hardware components used in the AI Crawling Bot. Each part is essential for the robot’s operation and is shown below with a visual reference.
 
+## 🌐 Language Versions
+- [English](robot-overview.md)
+- [فارسی (Persian)](robot-overview.fa.md)
+
+---
+
 ## 0. The Power Button 🔘
 The most important part of the robot is the power button. It is used to turn on and off the robot. The power button is located on the side of the robot, at the bottom of the battery compartment.
 And make sure to turn it off when you are not using the robot to save battery life.

@@ -2,6 +2,12 @@
 
 This guide will help you set up the required software and configure your Arduino for the project.
 
+## 🌐 Language Versions
+- [English](installation.md)
+- [فارسی (Persian)](installation.fa.md)
+
+---
+
 ## Prerequisites 🛠️
 
 - ESP Board (e.g., ESP32, ESP8266)
