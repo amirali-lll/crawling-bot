@@ -2,6 +2,10 @@
 
 With OTA enabled, you can upload new code to your robot wirelessly—no USB cable required! This guide will walk you through the process step by step.
 
+## 🌐 Language Versions
+- [English](ota.md)
+- [فارسی (Persian)](ota.fa.md)
+
 ---
 
 ## ⚠️ Important: Never Remove OTA Configuration

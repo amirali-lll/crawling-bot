@@ -107,3 +107,10 @@ Students should:
 This robot and its codebase were created as part of an AI course to help students learn real-world robotics, AI behavior programming, and system integration.
 
 ---
+
+## 🌐 Language Versions
+
+- [English](README.md)
+- [فارسی (Persian)](README.fa.md)
+
+---
