@@ -31,7 +31,7 @@ ESP32 مغز ربات است که مسئول اجرای منطق هوش مصنو
 این ماژول نمایشگر اطلاعاتی مانند خواندن سنسورها، پیام‌های وضعیت یا خروجی دیباگ را نمایش می‌دهد. با استفاده از پروتکل I2C با ESP32 ارتباط برقرار می‌کند.
 
 <img src="images/I2C-LCD.jpg" alt="نمایشگر LCD کاراکتری I2C" height="300"/>
-<img src="images/lcd-in-robot.jpeg " alt="نمایشگر LCD کاراکتری I2C در ربات" height="300"/>
+<img src="images/lcd-in-robot.jpeg" alt="نمایشگر LCD کاراکتری I2C در ربات" height="300"/>
 <img src="images/robot-lcd.jpg" alt="ربات با نمایشگر LCD کاراکتری I2C" height="300"/>
 
 ---
@@ -42,7 +42,7 @@ ESP32 مغز ربات است که مسئول اجرای منطق هوش مصنو
 
 <img src="images/robot-srf-front.jpeg" alt="سنسور فاصله‌سنج اولتراسونیک SRF-05" height="300"/>
 <img src="images/srf05.jpg" alt="سنسور فاصله‌سنج اولتراسونیک SRF-05" height="300" width="250" />
-<img src="images/pure-boards.jpeg " alt="سنسور فاصله‌سنج اولتراسونیک SRF-05 روی بردهای خالص" height="300" width="350"/>
+<img src="images/pure-boards.jpeg" alt="سنسور فاصله‌سنج اولتراسونیک SRF-05 روی بردهای خالص" height="300" width="350"/>
 
 ---
 
